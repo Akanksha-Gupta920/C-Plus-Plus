@@ -1,5 +1,6 @@
 var NAVTREEINDEX4 =
 {
+"d9/dee/classdouble__linked__list.html#a999c63fbdcc64f1fd367282d417a991e":[9,0,16,0],
 "d9/df0/fast__integer__input_8cpp.html":[10,0,13,4],
 "d9/df0/fast__integer__input_8cpp.html#a4e097ac8509b717bdc8ab09ecd86ae82":[10,0,13,4,0],
 "d9/df0/fast__integer__input_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,13,4,1],
@@ -248,6 +249,5 @@ var NAVTREEINDEX4 =
 "dc/d61/classgraph_1_1_graph.html#ae2f6992450faa2c3da93edea0818869a":[9,0,4,1,1],
 "dc/d61/classgraph_1_1_graph.html#afe3c12683248e50a7a1688b40156a842":[9,0,4,1,2],
 "dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html":[9,0,6,0,0,0],
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a11046825be0b6dbb73fbe834aa49200e":[9,0,6,0,0,0,0],
-"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a2871146feaaa453558239df67b21e0d2":[9,0,6,0,0,0,2]
+"dc/d93/classmachine__learning_1_1neural__network_1_1layers_1_1_dense_layer.html#a11046825be0b6dbb73fbe834aa49200e":[9,0,6,0,0,0,0]
 };

@@ -67,7 +67,7 @@ var sectionId = 'dynsection-6';
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d5/d33/gram__schmidt_8cpp.html#a8971006afb1ec214c03ab6ff90913120" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../d5/d33/gram__schmidt_8cpp.html#a8971006afb1ec214c03ab6ff90913120" target="_top" xlink:title="for std::array">
 <polygon fill="white" stroke="black" points="278,-107.71 278,-126.71 346,-126.71 346,-107.71 278,-107.71"/>
 <text text-anchor="middle" x="312" y="-114.71" font-family="Helvetica,sans-Serif" font-size="10.00">dot_product</text>
 </a>

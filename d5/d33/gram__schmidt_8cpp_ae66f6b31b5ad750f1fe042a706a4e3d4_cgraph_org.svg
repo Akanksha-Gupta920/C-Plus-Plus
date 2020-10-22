@@ -21,7 +21,7 @@
 <!-- Node2 -->
 <g id="node2" class="node">
 <title>Node2</title>
-<g id="a_node2"><a xlink:href="../../d5/d33/gram__schmidt_8cpp.html#a8971006afb1ec214c03ab6ff90913120" target="_top" xlink:title=" ">
+<g id="a_node2"><a xlink:href="../../d5/d33/gram__schmidt_8cpp.html#a8971006afb1ec214c03ab6ff90913120" target="_top" xlink:title="for std::array">
 <polygon fill="white" stroke="black" points="352,-138.29 352,-157.29 420,-157.29 420,-138.29 352,-138.29"/>
 <text text-anchor="middle" x="386" y="-145.29" font-family="Helvetica,sans-Serif" font-size="10.00">dot_product</text>
 </a>
