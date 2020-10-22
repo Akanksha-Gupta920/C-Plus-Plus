@@ -17,6 +17,7 @@ var namespaces_dup =
     [ "kadane", "d6/d74/namespacekadane.html", null ],
     [ "Knapsack", "d7/daf/namespace_knapsack.html", null ],
     [ "layers", "d5/d2c/namespacelayers.html", null ],
+    [ "linear_algebra", "d3/d78/namespacelinear__algebra.html", null ],
     [ "linear_probing", "d8/d89/namespacelinear__probing.html", null ],
     [ "linked_list", "d3/db0/namespacelinked__list.html", null ],
     [ "machine_learning", "d8/d77/namespacemachine__learning.html", null ],
