@@ -421,7 +421,7 @@ Here is the call graph for this function:</div>
 <div class="line"><a name="l00238"></a><span class="lineno">  238</span>&#160;  <span class="keywordtype">int</span> flag = 1; <span class="comment">///To check whether vectors are orthogonal or  not</span></div>
 <div class="line"><a name="l00239"></a><span class="lineno">  239</span>&#160;<span class="comment"></span>  <span class="keywordflow">for</span> (<span class="keywordtype">int</span> i = 0; i &lt; r - 1; i++) {</div>
 <div class="line"><a name="l00240"></a><span class="lineno">  240</span>&#160;    <span class="keywordflow">for</span> (<span class="keywordtype">int</span> j = i + 1; j &lt; r; j++) {</div>
-<div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;      dot = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/math/fabs.html">fabs</a>(<a class="code" href="../../d5/d33/gram__schmidt_8cpp.html#aed4d308f46ca1d91e348ca260ec1d2fb">dot_product</a>(B[i], B[j], c));</div>
+<div class="line"><a name="l00241"></a><span class="lineno">  241</span>&#160;      dot = <a class="codeRef" target="_blank" href="http://en.cppreference.com/w/cpp/numeric/math/fabs.html">fabs</a>(linear_algebra::gram_schmidtdot_product(B[i], B[j], c));</div>
 <div class="line"><a name="l00242"></a><span class="lineno">  242</span>&#160;      <span class="keywordflow">if</span> (dot &gt; 0.1) <span class="comment">/// take make the process numerically stable, upper bound for the dot product take 0.1</span></div>
 <div class="line"><a name="l00243"></a><span class="lineno">  243</span>&#160;<span class="comment"></span>      {</div>
 <div class="line"><a name="l00244"></a><span class="lineno">  244</span>&#160;        flag = 0;</div>
