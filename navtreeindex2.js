@@ -1,12 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"d5/d67/complex__numbers_8cpp.html#a5a73e9d4e68af8cedb95bd0864054b89":[10,0,11,5,4],
-"d5/d67/complex__numbers_8cpp.html#a5d4d5b8250b50703de888514c8e7a7a0":[10,0,11,5,1],
-"d5/d67/complex__numbers_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,11,5,5],
-"d5/d67/complex__numbers_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,5,2],
-"d5/d67/complex__numbers_8cpp.html#af738b2a6921f0a6868bb7c5b4c0d18e0":[10,0,11,5,3],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html":[3],
-"d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md29":[3,0],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md30":[3,1],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md31":[3,2],
 "d5/d88/md__d_i_r_e_c_t_o_r_y.html#autotoc_md32":[3,3],
@@ -125,8 +118,8 @@ var NAVTREEINDEX2 =
 "d6/d60/group__ode.html#ga36ff0710861ca39d957046c0b09b2985":[10,0,12,10,2],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[7,2,4],
 "d6/d60/group__ode.html#ga3874d294ab00fe9ce8731c5b7991a089":[10,0,12,11,4],
-"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[10,0,12,11,5],
 "d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[7,2,5],
+"d6/d60/group__ode.html#ga827bf009831ddc477c5fa8891d5cb35f":[10,0,12,11,5],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[7,2,3],
 "d6/d60/group__ode.html#ga8c319db420c3d97a83e9dcca803b6812":[10,0,12,10,3],
 "d6/d60/group__ode.html#gae0509f8843e2bc42de2abbd00a14b7b9":[7,2,0],
@@ -249,5 +242,12 @@ var NAVTREEINDEX2 =
 "d7/d75/postfix__evaluation_8cpp.html":[10,0,13,10],
 "d7/d75/postfix__evaluation_8cpp.html#a421baa2002a64bc0bfc3e1b64800d734":[10,0,13,10,4],
 "d7/d75/postfix__evaluation_8cpp.html#a4c27f949c9d6659be9f5bd2ccbe1360a":[10,0,13,10,2],
-"d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338":[10,0,13,10,1]
+"d7/d75/postfix__evaluation_8cpp.html#a59fd597e0ea394abe027ced4d2ea3338":[10,0,13,10,1],
+"d7/d75/postfix__evaluation_8cpp.html#a5b97d12e8b61484f756a8721992bfae1":[10,0,13,10,8],
+"d7/d75/postfix__evaluation_8cpp.html#a6a8eeb7d346d5cd6335d9780fb7c0f15":[10,0,13,10,7],
+"d7/d75/postfix__evaluation_8cpp.html#ad77f8c9cc594975756838d498c237cea":[10,0,13,10,6],
+"d7/d75/postfix__evaluation_8cpp.html#ae38bd3a177a6d61da3859a281233bbe1":[10,0,13,10,5],
+"d7/d75/postfix__evaluation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,13,10,3],
+"d7/d77/class_edge.html":[9,0,17],
+"d7/d77/class_edge.html#a0a5b6510bcbe63028818f4dc417ba962":[9,0,17,6]
 };
